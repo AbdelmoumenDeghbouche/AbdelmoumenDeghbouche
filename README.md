@@ -1,4 +1,4 @@
-<img src="https://static-00.iconduck.com/assets.00/coding-illustration-2048x1365-yefj2c5b.png"  height="400" width="400"/>
+<img src="https://static-00.iconduck.com/assets.00/coding-illustration-2048x1365-yefj2c5b.png"  height="300" />
 
 <h1 align="center">Hi 👋, I'm Abdelmoumen Deghbouche</h1
 <h3 align="center">A Mobile & backend developer | AI enthusiast</h3>
