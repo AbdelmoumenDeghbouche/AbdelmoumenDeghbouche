@@ -1,5 +1,5 @@
 <div style="margin-left: 20px;">
-    <img src="https://www.transparenttextures.com/patterns/debut-light.png" height="300"/>
+    <img src="https://user-images.githubusercontent.com/6753949/41509588-16212fda-721c-11e8-8650-dc1cdd619072.png" height="300"/>
     <img src="https://static-00.iconduck.com/assets.00/coding-illustration-2048x1365-yefj2c5b.png" height="300"/>
 </div>
 <h1 align="center">Hi 👋, I'm Abdelmoumen Deghbouche</h1
