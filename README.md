@@ -1,7 +1,5 @@
-<div style="margin: 0 auto; width: 400px;">
-    <img src="https://static-00.iconduck.com/assets.00/coding-illustration-2048x1365-yefj2c5b.png" width="400" height="400"/>
-</div>
 
+<img src="https://static-00.iconduck.com/assets.00/coding-illustration-2048x1365-yefj2c5b.png" width="400" height="400"/>
 <h1 align="center">Hi 👋, I'm Abdelmoumen Deghbouche</h1
 <h3 align="center">A Mobile & backend developer | AI enthusiast</h3>
 
