@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/deghboucheabde1" target="blank"><img src="https://img.shields.io/twitter/follow/deghboucheabde1?logo=twitter&style=for-the-badge" alt="deghboucheabde1" /></a> </p>
 
-- 🔭 I’m currently working on **AI driven multimodal commands for human-robot intercation**
+- 🔭 I’m currently working on **Video Automation Creation and posting SaaS**
 
 - 🌱 I’m currently learning **Deep learning & NLP**
 
