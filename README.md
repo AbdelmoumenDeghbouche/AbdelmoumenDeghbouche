@@ -1,5 +1,5 @@
 <div style="margin-left: 40px;">
-    <img src="https://user-images.githubusercontent.com/6753949/41509588-16212fda-721c-11e8-8650-dc1cdd619072.png" height="300"/>
+    <img src="https://user-images.githubusercontent.com/6753949/41509588-16212fda-721c-11e8-8650-dc1cdd619072.png" height="300" width="500"/>
     <img src="https://i.imgur.com/M48Zp9j.png" height="350"/>
 </div>
 <h1 align="center">Hi 👋, I'm Abdelmoumen Deghbouche</h1
