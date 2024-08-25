@@ -1,6 +1,6 @@
 <div style="margin-left: 20px;">
     <img src="https://user-images.githubusercontent.com/6753949/41509588-16212fda-721c-11e8-8650-dc1cdd619072.png" height="300"/>
-    <img src="https://static-00.iconduck.com/assets.00/coding-illustration-2048x1365-yefj2c5b.png" height="300"/>
+    <img src="https://i.imgur.com/94XTzc0.jpeg" height="300"/>
 </div>
 <h1 align="center">Hi 👋, I'm Abdelmoumen Deghbouche</h1
 <h3 align="center">A Mobile & backend developer | AI enthusiast</h3>
