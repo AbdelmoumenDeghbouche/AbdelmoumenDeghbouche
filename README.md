@@ -1,106 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,24&amp;height=200&amp;section=header&amp;text=Abdelmoumen%20Deghbouche&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Mobile%20%2B%20Backend%20Developer%20%7C%20AI%20Enthusiast&amp;descAlignY=58&amp;descSize=18" width="100%"/>
+# Abdelmoumen Deghbouche
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=Mobile+%26+Backend+Developer;AI+%26+Deep+Learning+Enthusiast;Building+Video+Automation+SaaS;Open+Source+Contributor" alt="Typing SVG"/>
+### AI/ML Researcher · IoMT Security & Intrusion Detection · ESI-SBA, Algeria
 
-<img src="https://komarev.com/ghpvc/?username=AbdelmoumenDeghbouche&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat" alt="Profile Views"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdelmoumen-deghbouche-5634b5204/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:a.deghbouche@esi-sba.dz)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/AbdelmoumenDeghbouche)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-```python
-developer = {
-    "name":      "Abdelmoumen Deghbouche",
-    "role":      "Mobile & Backend Developer | AI Enthusiast",
-    "building":  "Video Automation Creation & Posting SaaS",
-    "learning":  ["Deep Learning", "NLP"],
-    "open_to":   "Open Source Collaborations",
-    "also_does": ["Digital Marketing", "Trading"],
-    "contact":   "a.deghbouche@esi-sba.dz",
-}
-```
+I am an AI/ML researcher and engineer specializing in **network security**, **intrusion detection systems**, and **federated machine learning**. My work sits at the intersection of applied machine learning and cybersecurity, with a focus on resource-constrained environments such as the **Internet of Medical Things (IoMT)**.
+
+I hold two engineering-level degrees in Computer Science and AI & Data Science from [ESI-SBA](https://www.esi-sba.dz) (École Supérieure en Informatique, Sidi Bel Abbès, Algeria), where I was a member of the **LabRI-SBA** research laboratory under the supervision of Dr. Miloud Khaldi.
 
 ---
 
-## 🌐 Connect With Me
+## Research
 
-<p align="center">
-  <a href="https://twitter.com/deghboucheabde1">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abdelmoumen-deghbouche-5634b5204/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
-  </a>
-  <a href="mailto:a.deghbouche@esi-sba.dz">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1312mEiRXsIB_Y3O2cAGEByAzXK74m1xN/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=googledrive&amp;logoColor=white"/>
-  </a>
-</p>
+### Published Work
 
----
+**"Securing the Internet of Medical Things: A Machine Learning-Based IDS with Real-Time Detection Capabilities"**
+*ISI Journal (IIETA) · 2025 · Co-authored with Dr. Miloud Khaldi*
 
-## 🛠️ Tech Stack
+Proposed a hybrid IDS for IoMT environments combining:
+- **WELL-PSO** (Well-initialized Particle Swarm Optimization) for feature selection — reducing 44 features to 14 without accuracy loss
+- **WELL-PSO** for hyperparameter optimization of ensemble classifiers
+- Evaluated on **CICIoMT2024** dataset (Canadian Institute for Cybersecurity)
 
-### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,dart,js,c,html,css&amp;theme=dark&amp;perline=8"/>
-</p>
+**Results — state of the art on CICIoMT2024:**
 
-### 📱 Mobile & Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,android,react,tailwind,figma&amp;theme=dark&amp;perline=8"/>
-</p>
+| Model | Accuracy | FAR | Training Time |
+|---|---|---|---|
+| WELL-PSO-AdaBoost | **99.86%** | 0.03% | 8,060s |
+| WELL-PSO-DT | 99.76% | 0.05% | **14.77s** |
+| WELL-PSO-RF | 99.71% | 0.05% | 744s |
 
-### ⚙️ Backend & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,flask&amp;theme=dark&amp;perline=8"/>
-</p>
+### Research Interests
 
-### 🤖 AI / Machine Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&amp;theme=dark&amp;perline=8"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,cassandra&amp;theme=dark&amp;perline=8"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white"/>
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,linux,git&amp;theme=dark&amp;perline=8"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&amp;logo=apachehadoop&amp;logoColor=black"/>
-</p>
+- Federated learning for distributed intrusion detection
+- Adversarial robustness of ML-based IDS systems
+- Explainable AI for security alert interpretation
+- Lightweight ML for resource-constrained IoT/IoMT devices
+- Agentic AI for autonomous threat response
 
 ---
 
-## 📊 GitHub Stats
+## Production Engineering
+
+Beyond research, I have built and deployed large-scale AI systems in production:
+
+**AdForge** — AI-powered video advertising platform (SaaS)
+- 150,000+ lines of production Python
+- Multi-agent LLM orchestration (Claude, GPT-4o, Gemini)
+- 10+ AI provider integrations: Kling, Seedance, ElevenLabs, HeyGen, Sora, Nano Banana
+- Async FastAPI backend · AWS SQS job queues · Firestore at scale
+- Full UGC video pipeline: scene breakdown → image generation → video synthesis → voice → concat
+
+---
+
+## Selected Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Crypto RL Trading Agent](https://github.com/AbdelmoumenDeghbouche/Crypto-Currencies-Reinforcement-Learning-Agent) | Recurrent PPO (LSTM policy) agent trading BTC-USD using custom Gymnasium environment | PyTorch, Stable-Baselines3, RecurrentPPO, finta |
+| [Fraud Detection API](https://github.com/AbdelmoumenDeghbouche/Fraud-Detection-Api) | FastAPI server combining association rule mining with ML for real-time transaction fraud detection | FastAPI, scikit-learn, pandas |
+| [GAN Face Generator](https://github.com/AbdelmoumenDeghbouche/Deep-fake-Generator-server) | REST API serving a TFLite GAN generator producing synthetic face images from latent vectors | TensorFlow Lite, FastAPI, Vercel |
+| [AdForge Overview](https://github.com/AbdelmoumenDeghbouche/adforge-overview) | Architecture overview of the AdForge production AI platform | Python, FastAPI, LLMs |
+
+---
+
+## Technical Skills
+
+**ML/AI:** PyTorch · TensorFlow · scikit-learn · Stable-Baselines3 · Hugging Face · LangChain · PSO · Ensemble Methods · Deep Learning · NLP · Reinforcement Learning
+
+**Security:** Intrusion Detection Systems · Network Anomaly Detection · Adversarial ML · Smart Contract Security · Federated Learning
+
+**Backend:** Python (FastAPI, asyncio) · Node.js · AWS SQS · Firebase/Firestore · Docker · Redis
+
+**Languages:** Python · Java · TypeScript · JavaScript · Solidity
+
+---
+
+## Languages
+
+🇫🇷 French — TCF certified &nbsp;|&nbsp; 🇬🇧 English — B2 &nbsp;|&nbsp; 🇩🇿 Arabic — Native
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelmoumenDeghbouche&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelmoumenDeghbouche&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" height="165"/>
+<i>Open to PhD opportunities in IoMT security, federated learning, and adversarial ML — France, Belgium, Canada, Europe</i>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AbdelmoumenDeghbouche&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,24&amp;height=100&amp;section=footer" width="100%"/>
